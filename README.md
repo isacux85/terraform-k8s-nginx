@@ -16,8 +16,6 @@ Clonar el proyecto, abrir terminal y ejecutar:
 - "terraform plan"
 - "terraform apply -auto-approve"
 
-ir al browser y poner en la url: http://ip-pod:80
-
 Eliminar:
 
 - "terraform destroy -auto-approve"
