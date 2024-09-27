@@ -1,6 +1,6 @@
-# terraform-k8s-apache
+# terraform-k8s-nginx
 
-Proyecto de practica usando la herramienta de terraform con kubernetes en local para levantar un apache
+Proyecto de practica usando la herramienta de terraform con kubernetes en local para levantar un nginx
 
 Previo:
 
